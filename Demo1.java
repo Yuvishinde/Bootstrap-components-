@@ -6,7 +6,7 @@ class Demo1{
 
         int i=20;
 
-        if (i==10){
+        if(i==10){
                System.out.println("value match");
 
         }
